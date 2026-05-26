@@ -1,2 +1,6 @@
-# houseofhazards
-House of Hazards is a fun multiplayer browser game where players complete simple tasks inside a chaotic house filled with traps and hazards. This repository provides quick access to the playable web version with instant browser launch.
+House of Hazards – Free Online Game
+
+House of Hazards is a fun and chaotic multiplayer browser game where you must complete simple tasks while avoiding unpredictable traps and hazards. This repository provides quick access to the playable version of the game.
+
+🎮 Play Game: https://house-of-hazards.net/
+🌐 Official Website: https://house-of-hazards.net/
